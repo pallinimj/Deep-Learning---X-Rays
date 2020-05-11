@@ -17,4 +17,6 @@ Quality datasets incorporating medical imaging technology along with labels are 
   1. ChestX-ray8, source: https://www.kaggle.com/nih-chest-xrays/data
   2. MIMIC-CXR (special access required), source: https://physionet.org/content/mimic-cxr/2.0.0/
   3. CheXpert (special access required), source: https://stanfordmlgroup.github.io/competitions/chexpert/ 
+      
+      3a. If downloaded, CheXpert can be a tf.dataset allowing increased functionality in the pipeline similiar to MNIST, source: https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/image_classification/chexpert.py
 
