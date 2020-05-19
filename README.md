@@ -20,3 +20,10 @@ Quality datasets incorporating medical imaging technology along with labels are 
       
       3a. If downloaded, CheXpert can be a tf.dataset allowing increased functionality in the pipeline similiar to MNIST, source: https://github.com/tensorflow/datasets/blob/master/tensorflow_datasets/image_classification/chexpert.py
 
+
+### Small NIH Dataset for Image Segmentation
+
+credit: https://github.com/rsummers11/CADLab/tree/master/Lung_Segmentation_XLSor
+
+download at: https://nihcc.app.box.com/s/r8kf5xcthjvvvf6r7l1an99e1nj4080m
+
