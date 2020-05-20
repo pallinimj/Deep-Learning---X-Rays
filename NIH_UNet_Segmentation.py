@@ -17,6 +17,8 @@ https://github.com/bnsreenu/python_for_microscopists
 # manually split data and masks
 # update file paths
 # change loss function
+# modify callback naming conventions
+# enhance Tensorboard to show images within epochs
 ##############################
 
 import tensorflow as tf
