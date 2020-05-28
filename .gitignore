@@ -1,3 +1,2 @@
-
-NIH_Sample_Data_VGG16.ipynb
-cv_model_compare_mlt.ipynb
+*.py
+*.ipynb_checkpoints
