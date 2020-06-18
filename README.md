@@ -1,8 +1,6 @@
 # Northwestern Capstone
 
-add new line
-
-Deep Learning Approach to Thoracic Cavity Disease Feature Identification and Classification
+# Deep Learning Approach to Thoracic Cavity Disease Feature Identification and Classification
 
 ### Project Scope
 
