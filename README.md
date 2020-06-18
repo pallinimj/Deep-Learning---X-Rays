@@ -1,5 +1,7 @@
 # Northwestern Capstone
 
+Please see all branches in this repo for all code files.
+
 # Deep Learning Approach to Thoracic Cavity Disease Feature Identification and Classification
 
 ### Project Scope
